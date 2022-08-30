@@ -14,3 +14,4 @@ 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
 
 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
 
+gitcreds::gitcreds_set()
